@@ -1,0 +1,14 @@
+layout_spectrum: 0.8996416
+color:
+  saturation: 0.6415771
+  brandStrength: 0.8476703
+  lightness: 0.9193549
+  brandColors:
+    - '#F1F9FB'
+    - '#000000'
+    - '#034D00'
+    - '#378400'
+    - '#A9B4B1'
+  rhythmicContrast: 0.7150537
+typography_spectrum: 0.09677419
+name: Wurlitzergreens
