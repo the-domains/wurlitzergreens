@@ -1,4 +1,16 @@
-layout_spectrum: 0.8996416
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.09677419
 color:
   saturation: 0.6415771
   brandStrength: 0.8476703
@@ -10,5 +22,5 @@ color:
     - '#378400'
     - '#A9B4B1'
   rhythmicContrast: 0.7150537
-typography_spectrum: 0.09677419
+layout_spectrum: 0.8996416
 name: Wurlitzergreens
